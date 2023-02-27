@@ -52,7 +52,6 @@ int main()
     cout<<"Reverse using for loop:"<<forloop(n)<<"\n";
     cout<<"Reverse using while loop:"<<whileloop(n)<<"\n";
     cout<<"Reverse using while loop:"<<dowhileloop(n);
-    cout<<"Nww";
 
     return 0;
 }
